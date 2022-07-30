@@ -1,4 +1,4 @@
-Just an analyst/chemist that enjoys using SQL and making data visualizations.
+Just an data analyst/chemist that enjoys using SQL and making data visualizations.
 
 <!---
 lah317/lah317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
